@@ -21,3 +21,6 @@
 
 ### ECMAScript parsing infrastructure for multipurpose analysis 
  * https://github.com/jquery/esprima
+
+### ECMAScript parser that produces a Shift format AST
+ * https://github.com/shapesecurity/shift-parser-js
