@@ -1,6 +1,9 @@
 
 # A list of javascript parser
 
+### Simple, fast, powerful parser toolkit for JavaScript. 
+ * https://github.com/Hardmath123/nearley
+
 ### A JavaScript parser
  * https://github.com/babel/babylon
 
