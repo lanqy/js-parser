@@ -4,6 +4,9 @@
 ### Simple, fast, powerful parser toolkit for JavaScript. 
  * https://github.com/Hardmath123/nearley
 
+### AST explorer
+ * http://astexplorer.net/
+
 ### A JavaScript parser
  * https://github.com/babel/babylon
 
